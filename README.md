@@ -4,7 +4,7 @@
 *just a tech*
 > Passionate about solving ambiguous abstract problems, optimizing algorithmic complexity, and ensuring system reliability at scale.
 
-➤ **Check out my Portfolio:** [portfolio](sahilsingh.is-a.dev) <br/>
+➤ **Check out my Portfolio:** [portfolio](https://sahilsingh.is-a.dev) <br/>
 ➤ **Building:** Scalable systems and microservices with C++, Python, and Next.js<br/>
 ➤ **Currently working on:** Myna<br/>
 ➤ **Reach me:** [sahilsingh107433@gmail.com](mailto:sahilsingh107433@gmail.com)<br/>
